@@ -43,7 +43,6 @@
   <img src="https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/apache-hadoop.svg" height="40" alt="Hadoop"/>
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="40" alt="Tableau"/>
   <img src="https://img.icons8.com/ios-filled/50/000000/artificial-intelligence.png" height="40" alt="Machine Learning"/>
-  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/null/external-deep-learning-artificial-intelligence-flaticons-lineal-color-flat-icons.png" height="40" alt="Deep Learning"/>
   <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" height="40" alt="Excel"/>
 </p>
 
