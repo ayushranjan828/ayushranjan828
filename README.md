@@ -41,9 +41,14 @@
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" height="40" alt="MySQL"/>
   <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" height="40" alt="Oracle"/>
   <img src="https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/apache-hadoop.svg" height="40" alt="Hadoop"/>
-  <img src="https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/apache-hive.svg" height="40" alt="Hive"/>
+  <img src="https://raw.githubusercontent.com/Elucidation/tensorflow-icons/master/hive.png" height="40" alt="Hive"/>
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="40" alt="Tableau"/>
   <img src="https://img.icons8.com/ios-filled/50/000000/artificial-intelligence.png" height="40" alt="Machine Learning"/>
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/null/external-deep-learning-artificial-intelligence-flaticons-lineal-color-flat-icons.png" height="40" alt="Deep Learning"/>
+  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-computer-vision-artificial-intelligence-soft-fill-soft-fill-juicy-fish.png" height="40" alt="Computer Vision"/>
+  <img src="https://img.icons8.com/external-flat-juicy-fish/60/null/external-nlp-artificial-intelligence-flat-flat-juicy-fish.png" height="40" alt="NLP"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/888/888879.png" height="40" alt="GitHub"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" height="40" alt="Excel"/>
 </p>
 
 ---
