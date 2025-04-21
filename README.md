@@ -22,7 +22,7 @@
 - 🌐 Familiar with Web Tech: HTML, CSS  
 - 🎯 Currently enhancing my skills in Generative AI and CI/CD Pipelines
 
----
+
 
 ## 🛠️ Languages and Tools
 
@@ -45,7 +45,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" height="40" alt="Excel"/>
 </p>
 
----
+
 
 ## 📊 GitHub Stats
 
