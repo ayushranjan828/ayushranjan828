@@ -70,10 +70,6 @@ building ML pipelines, AI agents, LLM workflows, RAG architectures, and cloud-ba
   <img src="https://img.icons8.com/ios-filled/50/000000/artificial-intelligence.png" height="40" alt="Generative AI"/>
 </p>
 
-## 🚀 Featured Projects
-- **AI Agent for Tracking Daily Water Intake** — FastAPI, LangChain, Mistral AI, SQLite
-- **Garbage Image Classifier** — CNN achieving 91% accuracy, TensorFlow, OpenCV
-- **Sentence Autocompletion (Next-Word Prediction)** — LSTM, TensorFlow, NLP
 
 ## 📊 GitHub Stats
 <p align="center">
